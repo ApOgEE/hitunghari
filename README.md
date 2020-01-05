@@ -19,10 +19,10 @@
 
 2. Rename `mosc-countdown-img.php` to any name you like
 
-3. Change the images in 'countbg-images' to your event images.
- * please note that countdown number color is always yellow
+3. Change the images in `countbg-images` to your event images.
+   * please note that countdown number color is always yellow
   and I didn't make the position be flexible and available in
-  config file yet. You can change this by modifying the 'mosc-countdown-img.php'
+  config file yet. You can change this by modifying the `mosc-countdown-img.php`
 
 4. Set the date of your event to countdown in hh-config.php
 
@@ -42,4 +42,3 @@
       `http://yourdomain/yourhitunghari/mosc-countdown-img.php?size=2`
     - 160x600 px
       `http://yourdomain/yourhitunghari/mosc-countdown-img.php?size=3`
- 
